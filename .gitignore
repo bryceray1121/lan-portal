@@ -1,0 +1,12 @@
+/vendor
+/node_modules
+.env
+/.idea
+.DS_Store
+Thumbs.db
+composer.phar
+_ide_helper.php
+_ide_helper_models.php
+storage/logs
+
+
